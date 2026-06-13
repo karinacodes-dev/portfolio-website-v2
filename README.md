@@ -18,6 +18,7 @@ This is my third project — a multi-page personal portfolio website built using
 
 ## Live Website
 https://karinacodes-dev.github.io/simple-portfolio/
+https://karinacodes-dev.github.io/html-basics/
 
 ## Author
 Karina Singh
